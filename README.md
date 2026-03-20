@@ -1,4 +1,4 @@
-📌 Project Title
+
 # AI-Powered Parametric Insurance for Gig Workers
 
 📌 Problem Statement
